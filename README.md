@@ -2,7 +2,7 @@ This C++ Weather API Client retrieves real-time weather data for any city using 
 
 SkyRadar Example:
 
-Input API system then Select a city name:
+Input API key then Select a city name:
 
 
 ![image](https://github.com/user-attachments/assets/6353c645-8003-4633-9d5b-27a92d1d973a)
