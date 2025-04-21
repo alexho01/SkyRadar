@@ -3,15 +3,27 @@ This C++ Weather API Client retrieves real-time weather data for any city using 
 SkyRadar Example:
 
 Input API system then Select a city name:
+
+
 ![image](https://github.com/user-attachments/assets/6353c645-8003-4633-9d5b-27a92d1d973a)
 
 real-life comparison:
+
+
 ![image](https://github.com/user-attachments/assets/d691694b-5a27-4dda-aa9b-ad80128b1d09)
+
+
+
+
 
 Another Example:
 
 City Input New York:
+
+
 ![image](https://github.com/user-attachments/assets/5e5128f9-3469-4794-bde6-0d537e82fd7e)
 
 real-life comparison:
+
+
 ![image](https://github.com/user-attachments/assets/8f3b2c84-6f27-4b2f-bfdb-7195462cefb1)
