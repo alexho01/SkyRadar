@@ -1,4 +1,16 @@
-This C++ Weather API Client retrieves real-time weather data for any city using the OpenWeather API. It manages API keys securely through environment variables, with manual input as a fallback. The program formats city names for URL compatibility, makes secure HTTPS requests using libcurl, and parses JSON responses via the nlohmann JSON library. It displays clear, user-friendly output including temperature (°C), humidity, and descriptive weather conditions. Robust error handling ensures resilience against API failures, parsing errors, and invalid inputs, providing informative feedback and a reliable user experience.
+# 🌦️ C++ Weather API Client
+
+This project is a **C++ Weather API Client** that retrieves **real-time weather data** for any city using the [OpenWeather API](https://openweathermap.org/api). It ensures secure, reliable, and user-friendly access to weather information with robust error handling.
+
+---
+
+## 🔑 Key Features
+- **Secure API Key Management** – Stores API keys in environment variables, with manual input as a fallback  
+- **City Name Formatting** – Converts user input into URL-safe formats for API requests  
+- **Secure HTTPS Requests** – Utilizes **libcurl** for reliable API communication  
+- **JSON Parsing** – Processes responses using the **nlohmann JSON library**  
+- **Clean Output** – Displays temperature (°C), humidity, and descriptive weather conditions in a user friendly format  
+- **Robust Error Handling** – Gracefully manages API failures, parsing errors, and invalid inputs with informative feedback  
 
 SkyRadar Example:
 
